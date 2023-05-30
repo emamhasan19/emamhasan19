@@ -29,7 +29,7 @@ An ambitious and focused individual with a Computer Science and Engineering majo
 
  
 
-- 📫 How to reach me **eemamhhasan6@gmail.com**
+- 📫 How to reach me **eemamhhasan@gmail.com**
 
  
 
