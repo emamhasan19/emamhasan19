@@ -1,9 +1,3 @@
-<style>
-  p {
-    text-align: justify;
-  }
-</style>
-
 <img align="center" height="250px" src="https://media.licdn.com/dms/image/D4D16AQHJcZ5uBOwoUw/profile-displaybackgroundimage-shrink_350_1400/0/1685594247681?e=1691020800&v=beta&t=mAOu6pTKfAx5mJ8vH5Jm4nXQR3pcIh23R2K8QyScfFQ" alt="Emam Hasan Bijoy" />
 
  
@@ -18,7 +12,7 @@
 
  
 
-<p>An ambitious and focused individual with a Computer Science and Engineering major possessing strong interpersonal skills, excellent communication abilities, and a talent for solving problems. My commitment to success drives me to overcome challenges and continually improve. With a deep understanding of technology and a knack for explaining complex concepts in simple terms, I thrive in collaborative environments. My adaptability and resilience make me well-suited for the ever-changing tech industry. In summary, me as an individual is a determined and dedicated graduate ready to make my mark in the world of technology.</p>
+<p align="justify">An ambitious and focused individual with a Computer Science and Engineering major possessing strong interpersonal skills, excellent communication abilities, and a talent for solving problems. My commitment to success drives me to overcome challenges and continually improve. With a deep understanding of technology and a knack for explaining complex concepts in simple terms, I thrive in collaborative environments. My adaptability and resilience make me well-suited for the ever-changing tech industry. In summary, me as an individual is a determined and dedicated graduate ready to make my mark in the world of technology.</p>
 
  
 
