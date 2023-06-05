@@ -17,7 +17,7 @@
  
 
 
-- 🔭 I’m currently working on **Software Engineering**
+- 🔭 I’m currently working as a **Software Engineer**
 
  
 
