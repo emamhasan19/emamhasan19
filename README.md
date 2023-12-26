@@ -1,8 +1,3 @@
-<img align="center" height="250px" src="https://media.licdn.com/dms/image/D4D16AQHJcZ5uBOwoUw/profile-displaybackgroundimage-shrink_350_1400/0/1685594247681?e=1691020800&v=beta&t=mAOu6pTKfAx5mJ8vH5Jm4nXQR3pcIh23R2K8QyScfFQ" alt="Emam Hasan Bijoy" />
-
- 
-
-
 <h1 align="center">Hi 👋, I'm Emam Hasan Bijoy</h1>
 <h3 align="center">Problem Solver || Software Engineer || Graphics Designer</h3>
 
